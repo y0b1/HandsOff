@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>local.airpods-cursor</string>
+  <key>CFBundleName</key><string>HandsOff</string>
+  <key>CFBundleExecutable</key><string>HandsOff</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>LSUIElement</key><true/>
+  <key>NSMotionUsageDescription</key><string>Head movement from your AirPods moves the cursor.</string>
+  <key>NSMicrophoneUsageDescription</key><string>Listens for click, hold and scroll commands.</string>
+  <key>NSSpeechRecognitionUsageDescription</key><string>Recognizes click, hold and scroll commands.</string>
+</dict></plist>
